@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645863296 source:c:\users\jinnyeong\documents\algorithm\2022npc\ee\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
